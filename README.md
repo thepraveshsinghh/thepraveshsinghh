@@ -2,7 +2,11 @@
 
 Welcome to my Github!
 
-### ❤️ Programming
-### 🎓 Computer Science Graduate
-### ✨ Passion to learn new things
+#### ❤️ Programming ####
+#### 🎓 Computer Science Graduate ####
+#### ✨ Passion to learn new things ####
+#### 😍 Love developing Android apps
 
+
+<h3> Ask me about : </h3>
+ 
