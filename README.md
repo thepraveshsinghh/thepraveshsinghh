@@ -1,4 +1,4 @@
-<img src ="https://raw.githubusercontent.com/pro1416/pro1416/master/programming.gif" width ="450px" height ="255px"><img src="https://raw.githubusercontent.com/pro1416/pro1416/master/git%20logo.png" width ="450px">
+<img src ="https://raw.githubusercontent.com/pro1416/pro1416/master/programming.gif" width ="400px" height ="255px"><img src="https://raw.githubusercontent.com/pro1416/pro1416/master/git%20logo.png" width ="400px">
 
 Welcome to my Github!
 
