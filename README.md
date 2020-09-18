@@ -23,5 +23,10 @@
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/pro1416/pro1416/blob/master/Handshake.gif?raw=true" height="33px" /></h3> 
 </div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/pravesh-singh-a7a155193" target="blank">
+  <img align="center" alt="Pravesh's's LinkedIn" width="30px" src="https://github.com/pro1416/pro1416/blob/master/linkedin.png?raw=true" />
+ </a>
+  </p>
