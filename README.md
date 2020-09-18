@@ -1,6 +1,8 @@
-<h3> Hi there..!   <img src = "https://raw.githubusercontent.com/pro1416/pro1416/master/hi.gif" width ="29px"></h3>
+<img src ="https://raw.githubusercontent.com/pro1416/pro1416/master/programming.gif" width ="450px" height ="255px"><img src="https://raw.githubusercontent.com/pro1416/pro1416/master/git%20logo.png" width ="450px">
 
-<!--
-**pro1416/pro1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github!
 
-H
+### ❤️ Programming
+### 🎓 Computer Science Graduate
+### ✨ Passion to learn new things
+
