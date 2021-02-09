@@ -13,6 +13,7 @@
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/pro1416/pro1416/master/firebase.png"></a></code>
 <code><a href="https://www.json.org/json-en.html" target="_blank"><img height="50" src="https://raw.githubusercontent.com/pro1416/pro1416/master/json-logo.png"></a></code>
 <code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/pro1416/pro1416/master/corejava.png"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/pro1416/pro1416/master/python.png"></a></code>
 <br/>
 
 ### 🌱 I’m currently learning ... ###
