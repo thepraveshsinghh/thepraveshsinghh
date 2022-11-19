@@ -16,8 +16,9 @@
 <code><a href="https://www.python.org/" target="_blank"><img width="150" src="https://raw.githubusercontent.com/pro1416/pro1416/master/python.png"></a></code>
 <code><a href="https://www.w3schools.com/html/"><img height="50" src="https://github.com/pro1416/pro1416/blob/master/html.png?raw=true"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://github.com/pro1416/pro1416/blob/master/css.png?raw=true"></a></code>
+<code><a href="https://jquery.com/" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_vertical_logo_icon_169489.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://github.com/pro1416/pro1416/blob/master/768px-Unofficial_JavaScript_logo_2.svg.png?raw=true"></a></code>
-<br/>
+<br>
 
 ### 🌱 Currently learning: ###
 <code><a href="https://developer.android.com/jetpack/compose" target="_blank"><img height="80" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"></a></code>
