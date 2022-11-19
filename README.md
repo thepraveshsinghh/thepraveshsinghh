@@ -13,6 +13,8 @@
 <code><a href="https://developer.android.com/kotlin/campaign/learn" target="_blank"><img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBW-yI7fGPl9x4yHCaRRybqjyTHk2R_BhzAw&usqp=CAU"></a></code>
 <code><a href="https://www.java.com/en/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/pro1416/pro1416/master/corejava.png"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/pro1416/pro1416/master/firebase.png"></a></code>
+<br>
+<br>
 <code><a href="https://www.python.org/" target="_blank"><img width="150" src="https://raw.githubusercontent.com/pro1416/pro1416/master/python.png"></a></code>
 <code><a href="https://www.w3schools.com/html/"><img height="50" src="https://github.com/pro1416/pro1416/blob/master/html.png?raw=true"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://github.com/pro1416/pro1416/blob/master/css.png?raw=true"></a></code>
