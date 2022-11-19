@@ -19,7 +19,7 @@
 <code><a href="https://developer.android.com/kotlin/campaign/learn" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBW-yI7fGPl9x4yHCaRRybqjyTHk2R_BhzAw&usqp=CAU"></a></code>
 <br/>
 
-### Currently learning: ###
+### 🌱 Currently learning: ###
 <code><a href="https://developer.android.com/jetpack/compose" target="_blank"><img height="50" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"></a></code>
 
 <div align="center">
